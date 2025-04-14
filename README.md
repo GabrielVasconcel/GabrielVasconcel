@@ -50,7 +50,7 @@ See the full list [here](https://drive.google.com/drive/folders/1oPUzRvE93Efjr0K
 
 - Email: [ghv@cin.ufpe.br](mailto:ghv@cin.ufpe.br)
 - LinkedIn: [linkedin.com/in/gabriel-henrique-vasconcelos-4330a834a](https://www.linkedin.com/in/gabriel-henrique-vasconcelos-4330a834a)
-- GitHub: [GabrielVasconcel](https://github.com/GabrielVasconcel)
+- Resume: [Gabriel](https://docs.google.com/document/d/1wX_MWyp8pwEvkWNKG-Fz1tFOm8AWWCuCDjPNZEAz7SY/edit?usp=sharing)
 
 ---
 

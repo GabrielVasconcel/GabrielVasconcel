@@ -2,13 +2,12 @@
 
 I'm a Computer Science student at UFPE, passionate about data and always looking for challenges that allow me to apply and expand my knowledge in data analysis and data science.
 
-I'm currently deepening my understanding of **PyTorch** and exploring advanced deep learning techniques.
 
 ---
 
 ## 🧠 Key Skills
 
-- **Languages & Libraries**: Python (pandas, numpy, matplotlib, seaborn, scikit-learn, nltk, scipy.stats, PyTorch)
+- **Languages & Libraries**: Python (pandas, numpy, matplotlib, seaborn, scikit-learn, nltk, scipy.stats, PyTorch, Optuna, Gradio)
 - **Machine Learning**: Classification, regression, clustering, hyperparameter tuning
 - **Data Manipulation & Visualization**: Power BI, Power Query, Seaborn, Matplotlib
 - **Databases**: SQL (PostgreSQL), MongoDB (basic)
@@ -23,7 +22,7 @@ I'm currently deepening my understanding of **PyTorch** and exploring advanced d
 - **Data clustering** — Unsupervised learning techniques.
 - **Model comparison (KNN, Decision Tree, MLP)** — Supervised learning models.
 
-> Check out my repositories for more details on these and other projects!
+> Check out my main project [CRISP-DM project with interface](https://github.com/GabrielVasconcel/Projeto_AM_Final/tree/main)
 
 ---
 
